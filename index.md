@@ -11,7 +11,16 @@ style: |
 ## {{ site.presentation.title }}
 {:.title}
 
-## История symfony
+## Условия
+
+**Типичный проект**
+
+* nginx
+* php-fpm
+* mysql/postgres/memcache/rabbitmq
+* symfony
+
+## План
 
 **PHP and symfony legacy**
 
@@ -23,13 +32,27 @@ style: |
 
 **OS**
 
-* stable dists
+* debian 8/ubuntu 10
+* system packages
 
 ## Подходы
 
 **Подходы**
 
-* Подходы
+* Сборка\линтеры
+
+* Модульные тесты
+
+* Статический анализ
+
+* Мутационное тестирование
+
+
+## Культура
+
+* Дайжесты/Release notes/RFC
+* парк сборок под разные версии
+* минимизация зависимостей
 
 ## Контакты
 {:.contacts}
