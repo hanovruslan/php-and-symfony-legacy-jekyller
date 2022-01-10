@@ -32,7 +32,7 @@ style: |
 
 **OS**
 
-* debian 8/ubuntu 10
+* ~~debian 8/ubuntu 10~~ => docker-specific linux distro
 * system packages
 
 ## Подходы
