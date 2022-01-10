@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: Symcode
+    title: PHP and symfony legacy
     nda: false
     lang: ru
 
@@ -19,6 +19,6 @@ author:
     position: Разработчик
     company:
         name: Symcode
-        url:  https://hanovruslan.github.io/jekyller-symcode/
+        url:  https://hanovruslan.github.io/php-and-symfony-legacy-jekyller/
 
 progress: true
