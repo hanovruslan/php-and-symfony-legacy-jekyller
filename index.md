@@ -30,15 +30,16 @@ style: |
 
 ## Категории legacy
 
-**OS**
-
-* ~~debian 8/ubuntu 10~~ => docker-specific linux distro
-* system packages
+* OS ~~debian 8/ubuntu 10~~ => docker-specific linux distro
+* php version
+* framework version
+* vendor packages
 
 ## Подходы
 
 **Подходы**
 
+* Жесткий SemVer: не `composer require vendor/package:*`
 * Сборка: composer, линтеры, PHP CS
 * Модульные тесты: phpunit, codeception
 * Статический анализ: psalm, phan
