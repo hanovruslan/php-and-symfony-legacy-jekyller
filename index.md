@@ -39,9 +39,10 @@ style: |
 
 **Подходы**
 
-* Сборка: composet, линтеры, PHP CS)
+* Сборка: composer, линтеры, PHP CS
 * Модульные тесты: phpunit, codeception
 * Статический анализ: psalm, phan
+* Минимизация зависимостей: плагины к composer, например, vendor cleaner
 * Мутационное тестирование (не пробовал)
 * Aвтоматический рефакторинг: PHP-CS-Fixer/RectorPHP (не пробовал) 
 
